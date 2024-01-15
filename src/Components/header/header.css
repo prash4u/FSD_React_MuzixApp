@@ -1,0 +1,9 @@
+.header{
+    background-color: rgb(24, 15, 32);
+    position: fixed;
+    width: 100%;
+    top: 0;
+    overflow-y: hidden;   
+    z-index: 1;
+    /* padding: 1.5em 0.5em; */
+}

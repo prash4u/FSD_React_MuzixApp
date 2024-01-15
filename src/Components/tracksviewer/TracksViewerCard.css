@@ -1,0 +1,28 @@
+.card{
+    display: inline-block;
+    width: 18rem;
+    /* padding-left: 10px; */
+    align-items: center;
+    /* padding-right: 30px; */
+    padding-bottom: 0px;
+
+}
+
+.card-dis{
+    padding-right: 20px;
+}
+
+.card .card-img-top{
+    padding-top: 10px;
+    padding-right: 10px;
+    height: 200px;
+}
+
+.card .card-title{
+    text-decoration: underline;
+    display: inline;
+}
+
+.card .read-later{
+    padding-top: 1px;
+}

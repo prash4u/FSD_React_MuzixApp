@@ -1,0 +1,14 @@
+.viewlist-card
+{   
+    border: 1px solid black;
+    display: inline-block;
+    width: 10em;
+    margin-right: 2em;
+    padding:1em;
+}
+
+.viewlist-holder
+{
+    margin-left: 1em;
+   display: block;
+}

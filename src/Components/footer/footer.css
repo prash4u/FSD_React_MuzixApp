@@ -1,0 +1,16 @@
+.footer{
+    text-align: center;
+    background-color: rgb(24, 15, 32);
+    width: 100%;
+    padding: 1.5em 0.5em;
+    color:white;
+    bottom: 0;
+    position: fixed;
+
+}
+
+.social-links a{
+    padding:0.5em;
+    font-size: 3em;
+    color: chocolate;
+}
